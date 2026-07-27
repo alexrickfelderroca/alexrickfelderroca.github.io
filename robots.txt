@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://www.bastinou.com/sitemap-index.xml
+Sitemap: https://www.reformabcn.es/sitemap-index.xml
